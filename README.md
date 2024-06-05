@@ -9,33 +9,23 @@ I am an AI Engineer with a versatile skill set in Computer Vision, Natural Langu
 - **Frameworks:** PyTorch, TensorFlow, Keras, OpenCV, LangChain, Stable-Baselines3, PyQt
 - **Libraries:** Huggingface Transformers, Scikit-learn, MediaPipe, Timm, Pandas, NumPy, Matplotlib
 
-<details>
-<summary>Academic Qualifications</summary>
+## Academic Qualifications
 
-### University of Peradeniya, Peradeniya, Sri Lanka
+#### University of Peradeniya, Peradeniya, Sri Lanka
 - Bachelor of the Science of Engineering (Hons.) - Electrical & Electronic Engineering (2017-2023)
 
-### Dharmasoka College, Ambalangoda, Sri Lanka
+#### Dharmasoka College, Ambalangoda, Sri Lanka
 - Primary and Secondary Education (2003-2016)
 
-</details>
 
-<details>
-<summary>Industrial Experience</summary>
+## Industrial Experience
 
-### AI Engineer - PekoeAI, Singapore
-- March 2023 – Present
+#### AI Engineer - PekoeAI, Singapore (March 2023 – Present)
 
-### Intern Machine Learning and AI Engineer - Aizenit Technologies, London, UK
-- Oct 2022 - Jan 2023
+#### Intern Machine Learning and AI Engineer - Aizenit Technologies, London, UK (Oct 2022 - Jan 2023)
 
-### Intern Computer Vision and AI Engineer - Ansell Lanka (Pvt) Ltd, Biyagama, Sri Lanka
-- Aug 2022 - Oct 2022
+#### Intern Computer Vision and AI Engineer - Ansell Lanka (Pvt) Ltd, Biyagama, Sri Lanka (Aug 2022 - Oct 2022)
 
-### Intern Electrical and Electronic Engineer - Dialog Axiata PLC, Colombo, Sri Lanka
-- Nov 2019 - Jan 2020
+#### Intern Electrical and Electronic Engineer - Dialog Axiata PLC, Colombo, Sri Lanka (Nov 2019 - Jan 2020)
 
-### Freelancer - Upwork, Fiverr
-- Feb 2021 - Present
-
-</details>
+#### Freelancer - Upwork, Fiverr (Feb 2021 - Present)
