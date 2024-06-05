@@ -1,3 +1,5 @@
+theme: minima
+
 # Pamudu Ranasinghe
 
 I am an AI Engineer with a versatile skill set in Computer Vision, Natural Language Processing, Audio Signal Analysis, and Embedded Machine Learning. I have graduated with a second-upper-class degree in Electrical and Electronics Engineering from the University of Peradeniya in Sri Lanka. I have over three years of experience in developing machine learning solutions. Through my involvement in a wide range of projects, both industry-led and self-guided, I have earned international recognition and established myself as a skilled AI Engineer.
